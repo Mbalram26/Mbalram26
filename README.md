@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalram26&label=Profile%20views&color=0e75b6&style=flat" alt="mbalram26" /> </p>
 
-- 🌱 I’m currently learning **Ract**
+- 🌱 I’m currently learning **RactJs**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Java and Javascript**
 
 - 📫 How to reach me **sbalram1000@gmail.com**
 
